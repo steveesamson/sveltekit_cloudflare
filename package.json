@@ -1,5 +1,6 @@
 {
 	"name": "sveltekit_cloudflare",
+	"description": "A SvelteKit Application Deployment to Cloudflare Pages.",
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
